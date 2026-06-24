@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://thriftingoverfifty.jbrasfield.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://thriftingoverfifty.jbrasfield.com/</loc>
+</url>
+<url>
+<loc>https://thriftingoverfifty.jbrasfield.com/about.html</loc>
+<lastmod>2026-06-24T08:19:40-04:00</lastmod>
+</url>
+<url>
+<loc>https://thriftingoverfifty.jbrasfield.com/beginnings.html</loc>
+<lastmod>2026-06-24T09:01:33-04:00</lastmod>
+<image:image>
+<image:loc>https://thriftingoverfifty.jbrasfield.com/media/posts/4/gallery/PICT1318-Edinburgh-Castle-2-thumbnail.JPG</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://thriftingoverfifty.jbrasfield.com/the-stinky-shirt.html</loc>
+<lastmod>2026-06-24T12:14:31-04:00</lastmod>
+<image:image>
+<image:loc>https://thriftingoverfifty.jbrasfield.com/media/posts/6/gallery/Screenshot-2026-06-24-at-12.14.00-PM-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
