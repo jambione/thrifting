@@ -1,0 +1,3 @@
+node_modules/
+dist/          # or build/
+.DS_Store
