@@ -1,17 +1,15 @@
-name: Deploy static content to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
     push:
         branches: ["main"]
     workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
     contents: read
     pages: write
     id-token: write
 
-# Allow one concurrent deployment
 concurrency:
     group: "pages"
     cancel-in-progress: true
@@ -23,10 +21,10 @@ jobs:
             url: ${{ steps.deployment.outputs.page_url }}
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout
+            - name: Checkout (super fast)
               uses: actions/checkout@v4
               with:
-                  fetch-depth: 1 # Much faster checkout
+                  fetch-depth: 1
 
             - name: Setup Pages
               uses: actions/configure-pages@v5
@@ -34,7 +32,7 @@ jobs:
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v3
               with:
-                  path: "." # Deploy from root (your current setup)
+                  path: "."
 
             - name: Deploy to GitHub Pages
               id: deployment
