@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://deals.jbrasfield.com",
+    "feed_url": "https://deals.jbrasfield.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://deals.jbrasfield.com/test.html",
+            "url": "https://deals.jbrasfield.com/test.html",
+            "title": "test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-24T07:41:57-04:00",
+            "date_modified": "2026-06-24T07:41:57-04:00"
+        }
+    ]
+}
