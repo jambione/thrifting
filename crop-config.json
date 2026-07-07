@@ -1,10 +1,14 @@
 {
   "embrace-the-wrinkles-why-linen-is-my-go-to-summer-travel-fabric.html": {
     "crop": "center bottom",
-    "flow": "left"
+    "flow": "right"
+  },
+  "thrift-or-skip-my-honest-brand-guide.html": {
+    "crop": "center center",
+    "flow": "right"
   },
   "11-packing-light-tips-for-international-travel.html": {
-    "crop": "center center",
+    "crop": "center 25%",
     "flow": "right"
   },
   "what-i-wore-to-work-and-the-bao-bao-story.html": {
@@ -16,7 +20,7 @@
     "flow": "right"
   },
   "the-stinky-shirt.html": {
-    "crop": "center 25%",
+    "crop": "center top",
     "flow": "right"
   },
   "beginnings.html": {
