@@ -2,12 +2,12 @@
     {
         "path": "11-packing-light-tips-for-international-travel.html",
         "type": "file",
-        "md5": "2cb1d35886c450b4ef7424c6dbdeb831"
+        "md5": "b519dafc3505449260a400f53692960b"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "1aec6c165de346f44cac3fa8dfa7ec35"
+        "md5": "155d211c9d4e865219f6e94aaae92d5f"
     },
     {
         "path": "CNAME",
@@ -17,7 +17,7 @@
     {
         "path": "about.html",
         "type": "file",
-        "md5": "54513ed7e03db0fca47063045fe3c886"
+        "md5": "dc21e2fc1c6d34fccfff2017fce8d769"
     },
     {
         "path": "assets",
@@ -97,27 +97,52 @@
     {
         "path": "/authors/kara/index.html",
         "type": "file",
-        "md5": "32cae2697edd77ef97afa4fc4f17382f"
+        "md5": "992f83d18d4536c67748441d9b0b67b6"
+    },
+    {
+        "path": "authors/kara/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/kara/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kara/page/2/index.html",
+        "type": "file",
+        "md5": "3e2b8e4ba0cff20d52c56b51582a7393"
     },
     {
         "path": "beginnings.html",
         "type": "file",
-        "md5": "56f9b65962b5bc3a06086362debb44cc"
+        "md5": "1257cc82a1397323aebfc91bbf8f3540"
+    },
+    {
+        "path": "embrace-the-wrinkles-why-linen-is-my-go-to-summer-travel-fabric.html",
+        "type": "file",
+        "md5": "927be035e7df7d6f4c177e9ab78e8f15"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b4f35b29735cab53e2ea1f1fb949c306"
+        "md5": "601ca60b0d3c230ce4c9b25084ce5736"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ccc61aa87945fa19841b582bc41d6363"
+        "md5": "ed5c774a027c9c5d222e3b09d55f8432"
+    },
+    {
+        "path": "hidden-gems-hunting-for-small-boutique-clothing-brands.html",
+        "type": "file",
+        "md5": "3060f2b7cb90f2810053551706af4bb6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2c741584738e07fb944771c652a8a14d"
+        "md5": "b4da04ae013aaae9936b571851fbbc4e"
     },
     {
         "path": "media",
@@ -128,6 +153,501 @@
         "path": "media/posts",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/Gemini_Generated_Image_4xtwqi4xtwqi4xtw.png",
+        "type": "file",
+        "md5": "40a62b44a86f6aa2a6b674808baddfe0"
+    },
+    {
+        "path": "/media/posts/10/myfinds-3.jpg",
+        "type": "file",
+        "md5": "75c97c4728b1b9991329f432ad39b2a8"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-2xl.png",
+        "type": "file",
+        "md5": "50432a69a651e7d61cf596a985821656"
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-lg.png",
+        "type": "file",
+        "md5": "50432a69a651e7d61cf596a985821656"
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-md.png",
+        "type": "file",
+        "md5": "50432a69a651e7d61cf596a985821656"
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-sm.png",
+        "type": "file",
+        "md5": "ec7c171b5bb16b2d97133696fae8a84f"
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-xl.png",
+        "type": "file",
+        "md5": "50432a69a651e7d61cf596a985821656"
+    },
+    {
+        "path": "/media/posts/10/responsive/Gemini_Generated_Image_4xtwqi4xtwqi4xtw-xs.png",
+        "type": "file",
+        "md5": "1c253e4b5962f60f9511faa92da7cd50"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-2xl.jpg",
+        "type": "file",
+        "md5": "e24636c00e728a78008573d1c3399a27"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-lg.jpg",
+        "type": "file",
+        "md5": "e24636c00e728a78008573d1c3399a27"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-md.jpg",
+        "type": "file",
+        "md5": "e24636c00e728a78008573d1c3399a27"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-sm.jpg",
+        "type": "file",
+        "md5": "159793261d3faacc459e2453169de76e"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-xl.jpg",
+        "type": "file",
+        "md5": "e24636c00e728a78008573d1c3399a27"
+    },
+    {
+        "path": "/media/posts/10/responsive/myfinds-3-xs.jpg",
+        "type": "file",
+        "md5": "ea367cef06aba3b459a8da60b58193ac"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/Screenshot-2026-07-05-at-4.00.00-PM.png",
+        "type": "file",
+        "md5": "cccb9ed2e22b74b4c1be939e8d93ace2"
+    },
+    {
+        "path": "/media/posts/11/Screenshot-2026-07-05-at-4.03.33-PM-4.png",
+        "type": "file",
+        "md5": "8035f8d1df2d3436784a9875352bb0f2"
+    },
+    {
+        "path": "/media/posts/11/Screenshot-2026-07-05-at-4.07.56-PM.png",
+        "type": "file",
+        "md5": "b357e428070c13086cd79d09e93cc223"
+    },
+    {
+        "path": "/media/posts/11/ironingonvacation.png",
+        "type": "file",
+        "md5": "f728ed89db96c55c9283e93fd4ec3261"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-2xl.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-lg.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-md.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-sm.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-xl.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.00.00-PM-xs.png",
+        "type": "file",
+        "md5": "fac3fdcfba628167ef27af9410495b1b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-2xl.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-lg.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-md.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-sm.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-xl.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.03.33-PM-4-xs.png",
+        "type": "file",
+        "md5": "e5d3ec1ff05b788caf7fc5ca761c7447"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-2xl.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-lg.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-md.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-sm.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-xl.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/Screenshot-2026-07-05-at-4.07.56-PM-xs.png",
+        "type": "file",
+        "md5": "61bcc0e807bc91d983ec93e16ee9e09b"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-2xl.png",
+        "type": "file",
+        "md5": "733a216f501206545b7b6f82bb105e31"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-lg.png",
+        "type": "file",
+        "md5": "733a216f501206545b7b6f82bb105e31"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-md.png",
+        "type": "file",
+        "md5": "733a216f501206545b7b6f82bb105e31"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-sm.png",
+        "type": "file",
+        "md5": "733a216f501206545b7b6f82bb105e31"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-xl.png",
+        "type": "file",
+        "md5": "733a216f501206545b7b6f82bb105e31"
+    },
+    {
+        "path": "/media/posts/11/responsive/ironingonvacation-xs.png",
+        "type": "file",
+        "md5": "cb25b16b04e80ad5d356a25a9b338a3b"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/IMG_1756.jpg",
+        "type": "file",
+        "md5": "028756fdfe7359241e0e27a4008a3ab7"
+    },
+    {
+        "path": "/media/posts/12/IMG_2502.jpg",
+        "type": "file",
+        "md5": "2ae80cf03db005e00b884533d6427927"
+    },
+    {
+        "path": "/media/posts/12/P9013543.JPG",
+        "type": "file",
+        "md5": "4eb06b295e32c6371f03b00d0466a791"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-2xl.jpg",
+        "type": "file",
+        "md5": "89a88af75c4a45b2522433cb7c69f3a6"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-lg.jpg",
+        "type": "file",
+        "md5": "bb5f18356ea0fc863db9036b4a8180d7"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-md.jpg",
+        "type": "file",
+        "md5": "18a62d3548af94444b722c3c08c90990"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-sm.jpg",
+        "type": "file",
+        "md5": "d1a5463fc61cace620c027b6aa79788c"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-xl.jpg",
+        "type": "file",
+        "md5": "b7552b34b415310b987895cd1e61030b"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_1756-xs.jpg",
+        "type": "file",
+        "md5": "a275f06ac39e6020d15bceef9641b8b5"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-2xl.jpg",
+        "type": "file",
+        "md5": "a8afa9eb693b7bc023807d1522667c10"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-lg.jpg",
+        "type": "file",
+        "md5": "621148ae1ea5c4eb6991f305ae4e6e25"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-md.jpg",
+        "type": "file",
+        "md5": "f4f5b4c4a564ce923654d268c267ba91"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-sm.jpg",
+        "type": "file",
+        "md5": "9585ed2eac18baa643ed41cc14c21f3c"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-xl.jpg",
+        "type": "file",
+        "md5": "cb20dce0b6070aaa4dec4d9a9927d887"
+    },
+    {
+        "path": "/media/posts/12/responsive/IMG_2502-xs.jpg",
+        "type": "file",
+        "md5": "a101b13b0b01d01802f8653d442d70ef"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-2xl.JPG",
+        "type": "file",
+        "md5": "63b4e9e581602c5954632339affdaaef"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-lg.JPG",
+        "type": "file",
+        "md5": "63b4e9e581602c5954632339affdaaef"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-md.JPG",
+        "type": "file",
+        "md5": "63b4e9e581602c5954632339affdaaef"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-sm.JPG",
+        "type": "file",
+        "md5": "3a8a74ff64ca7685c06e5be5a83d2f4c"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-xl.JPG",
+        "type": "file",
+        "md5": "63b4e9e581602c5954632339affdaaef"
+    },
+    {
+        "path": "/media/posts/12/responsive/P9013543-xs.JPG",
+        "type": "file",
+        "md5": "937644f245ada72d765ffd5f2aff7973"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/bags-in-shop-window.jpg",
+        "type": "file",
+        "md5": "44850bfbd70e8bbd816af76af8a86cfb"
+    },
+    {
+        "path": "/media/posts/13/chloe-paddington.jpg",
+        "type": "file",
+        "md5": "817bf09909d7c706dde9c650ee77b637"
+    },
+    {
+        "path": "/media/posts/13/furla-2.jpeg",
+        "type": "file",
+        "md5": "6cf324a4c7ae6d10d6f9be9290019279"
+    },
+    {
+        "path": "/media/posts/13/neo-fantaisie.jpg",
+        "type": "file",
+        "md5": "2141cf894b7095c8611f5b287f6123fc"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-2xl.jpg",
+        "type": "file",
+        "md5": "9024e33bbc3785a145059b1d50aeaeae"
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-lg.jpg",
+        "type": "file",
+        "md5": "9024e33bbc3785a145059b1d50aeaeae"
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-md.jpg",
+        "type": "file",
+        "md5": "9024e33bbc3785a145059b1d50aeaeae"
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-sm.jpg",
+        "type": "file",
+        "md5": "21ba0a8d3a81dba930022ad46e9f677d"
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-xl.jpg",
+        "type": "file",
+        "md5": "9024e33bbc3785a145059b1d50aeaeae"
+    },
+    {
+        "path": "/media/posts/13/responsive/bags-in-shop-window-xs.jpg",
+        "type": "file",
+        "md5": "8f0eca0a7839070fd225ae45c8b305a4"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-2xl.jpg",
+        "type": "file",
+        "md5": "791ab2845976a3dd9468cea4fe0ed4ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-lg.jpg",
+        "type": "file",
+        "md5": "791ab2845976a3dd9468cea4fe0ed4ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-md.jpg",
+        "type": "file",
+        "md5": "791ab2845976a3dd9468cea4fe0ed4ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-sm.jpg",
+        "type": "file",
+        "md5": "791ab2845976a3dd9468cea4fe0ed4ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-xl.jpg",
+        "type": "file",
+        "md5": "791ab2845976a3dd9468cea4fe0ed4ad"
+    },
+    {
+        "path": "/media/posts/13/responsive/chloe-paddington-xs.jpg",
+        "type": "file",
+        "md5": "3286f3c4fa10c6c62ffeda4fe96a049e"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-2xl.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-lg.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-md.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-sm.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-xl.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/furla-2-xs.jpeg",
+        "type": "file",
+        "md5": "e4ac505e3539f8efc0de9a93b8f56efb"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-2xl.jpg",
+        "type": "file",
+        "md5": "6a6fcabb412de5e9cd8b3ba2e7b71a20"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-lg.jpg",
+        "type": "file",
+        "md5": "6a6fcabb412de5e9cd8b3ba2e7b71a20"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-md.jpg",
+        "type": "file",
+        "md5": "6a6fcabb412de5e9cd8b3ba2e7b71a20"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-sm.jpg",
+        "type": "file",
+        "md5": "6a6fcabb412de5e9cd8b3ba2e7b71a20"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-xl.jpg",
+        "type": "file",
+        "md5": "6a6fcabb412de5e9cd8b3ba2e7b71a20"
+    },
+    {
+        "path": "/media/posts/13/responsive/neo-fantaisie-xs.jpg",
+        "type": "file",
+        "md5": "4062ea85763f69fa8041a7055525e87d"
     },
     {
         "path": "media/posts/2",
@@ -365,9 +885,9 @@
         "md5": "448d281355f3ef820605a735f449bb23"
     },
     {
-        "path": "/media/posts/9/IMG_6646.jpg",
+        "path": "/media/posts/9/IMG_6646-2.jpg",
         "type": "file",
-        "md5": "4d0a9557e8a989930e9572e51359305e"
+        "md5": "26c4ee8ef0b39e64f65767f353eaafca"
     },
     {
         "path": "media/posts/9/responsive",
@@ -435,34 +955,34 @@
         "md5": "b6302d2ac27f6a0140d176551dc10572"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-2xl.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-2xl.jpg",
         "type": "file",
-        "md5": "01a98a143cb9710b9015c892000b42d9"
+        "md5": "1a54dbd13c04bf0f67b27491157b5c37"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-lg.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-lg.jpg",
         "type": "file",
-        "md5": "32e5f31d4cd4107b7f118fddd8103c79"
+        "md5": "ccfa291599f86a3beba9f48b3cd10e52"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-md.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-md.jpg",
         "type": "file",
-        "md5": "84adbc3bcdd1a2b3cca7775c3b022bc1"
+        "md5": "325a3fc747bcdd1099d45300189c8957"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-sm.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-sm.jpg",
         "type": "file",
-        "md5": "fa722210c467fc25d1d3a61ef66d7c00"
+        "md5": "c83f16a15cff83c7d2054962ee675ae3"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-xl.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-xl.jpg",
         "type": "file",
-        "md5": "a5dcd48fc8f15e019a187704c65fe499"
+        "md5": "0a52ded312eecbbcfcf196125b504651"
     },
     {
-        "path": "/media/posts/9/responsive/IMG_6646-xs.jpg",
+        "path": "/media/posts/9/responsive/IMG_6646-2-xs.jpg",
         "type": "file",
-        "md5": "65f4ff47cad89b091e19ed4618222645"
+        "md5": "14fc9271806213ff12a86f7a9a627ad2"
     },
     {
         "path": "robots.txt",
@@ -472,12 +992,17 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "17d3b362edd3f510f6f8d330d24ed9d8"
+        "md5": "8cb74e829069f586963766129277c88b"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "stop-doom-scrolling-start-thrift-scrolling-my-3-favorite-designer-bag-finds.html",
+        "type": "file",
+        "md5": "b19663df01dfd8a757465ba40652b41e"
     },
     {
         "path": "tags",
@@ -487,21 +1012,26 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "341a509c6d3e706f87bb95efcb55ecc2"
+        "md5": "ae7be79fd93cb966ba896d332ddb87c7"
     },
     {
         "path": "the-stinky-shirt.html",
         "type": "file",
-        "md5": "966ef5dca954abae65578bf865bd2d45"
+        "md5": "cf0c2b571325732f29d972db32fb0087"
+    },
+    {
+        "path": "thrift-or-skip-my-honest-brand-guide.html",
+        "type": "file",
+        "md5": "35252020d14d1ec0dff96d27b0ea3abc"
     },
     {
         "path": "what-i-wore-june-24-2026.html",
         "type": "file",
-        "md5": "922ddbb3071fac847100277376fb8d19"
+        "md5": "cc5b479430d32751826141b29960a5c8"
     },
     {
         "path": "what-i-wore-to-work-and-the-bao-bao-story.html",
         "type": "file",
-        "md5": "6c0064038e31dd855828630511d13255"
+        "md5": "7197af6b686bd2648f46ed7c54a1207c"
     }
 ]
