@@ -97,7 +97,7 @@
     {
         "path": "/authors/kara/index.html",
         "type": "file",
-        "md5": "07332fddb95d2f5839c796f5c0d0a580"
+        "md5": "3b5398ff9a57a93a7bad2c7cb77b0404"
     },
     {
         "path": "authors/kara/page",
@@ -112,7 +112,17 @@
     {
         "path": "/authors/kara/page/2/index.html",
         "type": "file",
-        "md5": "47c8d185869422c44a9bd10891123811"
+        "md5": "cb0e6792c490379599d3fb1fc5c8ff3b"
+    },
+    {
+        "path": "authors/kara/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kara/page/3/index.html",
+        "type": "file",
+        "md5": "87a81cd965b2ce2d2e652599e7f8e118"
     },
     {
         "path": "beginnings.html",
@@ -127,17 +137,27 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "36765f5a183aeb5c413a43a24efa6ac8"
+        "md5": "55d7ee8e47ed82063d192d97b1b78891"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2f8995c7dd4ff3d3ea6382f94673e54b"
+        "md5": "959ab47b7a20d28ec33a007d3f047bfa"
+    },
+    {
+        "path": "goodwill-online-hunting-getting-a-great-deal.html",
+        "type": "file",
+        "md5": "59773cfaacc1f2d2cf184c51ddc795d3"
     },
     {
         "path": "hidden-gems-hunting-for-small-boutique-clothing-brands.html",
         "type": "file",
-        "md5": "3060f2b7cb90f2810053551706af4bb6"
+        "md5": "56b341e3d3ddf9c987f81e12c467e603"
+    },
+    {
+        "path": "i-checked-my-25-tory-burch-bag-into-diy-rehab.html",
+        "type": "file",
+        "md5": "dd1b13779b875890e51e5f5db16a883a"
     },
     {
         "path": "index.html",
@@ -695,6 +715,341 @@
         "md5": "e5c608d02f1d8bdc8e6652576fe40d6d"
     },
     {
+        "path": "media/posts/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/IMG_2797.JPG",
+        "type": "file",
+        "md5": "75557360428c693af0e4b17cc7106584"
+    },
+    {
+        "path": "media/posts/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-2xl.JPG",
+        "type": "file",
+        "md5": "d574c41b924a968ad68996d9bc6d54bf"
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-lg.JPG",
+        "type": "file",
+        "md5": "936de5506b53f41520c2e82f34a9da5a"
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-md.JPG",
+        "type": "file",
+        "md5": "291729a3c586c93897b428a3826ed171"
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-sm.JPG",
+        "type": "file",
+        "md5": "bb32bcc574b988516213053b3bae42d4"
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-xl.JPG",
+        "type": "file",
+        "md5": "d574c41b924a968ad68996d9bc6d54bf"
+    },
+    {
+        "path": "/media/posts/16/responsive/IMG_2797-xs.JPG",
+        "type": "file",
+        "md5": "5b696a57f4e6f473510cb0f7e52a7fca"
+    },
+    {
+        "path": "media/posts/17",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/IMG_2802-2.jpeg",
+        "type": "file",
+        "md5": "9259becccaf38d8bc5fb60563fb2491e"
+    },
+    {
+        "path": "/media/posts/17/IMG_2815-2.jpeg",
+        "type": "file",
+        "md5": "93f44a4cf53386078cfdd681d38bb132"
+    },
+    {
+        "path": "/media/posts/17/IMG_2816.jpeg",
+        "type": "file",
+        "md5": "e6b5d300f2fceb35e47990fcfc643c53"
+    },
+    {
+        "path": "/media/posts/17/IMG_2817.jpeg",
+        "type": "file",
+        "md5": "088154098fdacdfeac1783cece07ee66"
+    },
+    {
+        "path": "/media/posts/17/IMG_2818.jpeg",
+        "type": "file",
+        "md5": "8f1c8c00760212e819acf2d57af8e318"
+    },
+    {
+        "path": "/media/posts/17/IMG_2819.jpeg",
+        "type": "file",
+        "md5": "0ebe85ae4d95e2d115dc47ad2bab9fac"
+    },
+    {
+        "path": "/media/posts/17/Screenshot-2026-08-12-at-8.23.44-AM.png",
+        "type": "file",
+        "md5": "dd645730f7097eb9b8407bf092f0e11e"
+    },
+    {
+        "path": "media/posts/17/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2799-3-thumbnail.jpeg",
+        "type": "file",
+        "md5": "250abbc2028a005864a8668de516cd1a"
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2799-3.jpeg",
+        "type": "file",
+        "md5": "796b10ff9c28297da7e6a0398e5df9f3"
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2800-2-thumbnail.jpeg",
+        "type": "file",
+        "md5": "ad4a993cf9b03dc8fcb23599c08973f0"
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2800-2.jpeg",
+        "type": "file",
+        "md5": "9da828c7635af7faca5f2f0475c8c605"
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2801-2-thumbnail.jpeg",
+        "type": "file",
+        "md5": "cba5b50f72d4f4cb756d548a2489b87a"
+    },
+    {
+        "path": "/media/posts/17/gallery/IMG_2801-2.jpeg",
+        "type": "file",
+        "md5": "4d77bde263a7ae9410204d029dc50bb4"
+    },
+    {
+        "path": "media/posts/17/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-2xl.jpeg",
+        "type": "file",
+        "md5": "d95f7139ce0864a6db46b55b196afd65"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-lg.jpeg",
+        "type": "file",
+        "md5": "9647b8fa4ddf592042aa650abb9e8911"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-md.jpeg",
+        "type": "file",
+        "md5": "46a504690bea91313c824a09cd9c8adc"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-sm.jpeg",
+        "type": "file",
+        "md5": "c8e86feeee61b7d76b144e8545bcdd8e"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-xl.jpeg",
+        "type": "file",
+        "md5": "99b77b864f62f53e740cafe2af985496"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2802-2-xs.jpeg",
+        "type": "file",
+        "md5": "79df93a2df92e6c157411afd8c59ffcc"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-2xl.jpeg",
+        "type": "file",
+        "md5": "acee582bcdc5cc5a46afc3e608d042fb"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-lg.jpeg",
+        "type": "file",
+        "md5": "db41d0e6aeaf5ce941b2e66cfde66057"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-md.jpeg",
+        "type": "file",
+        "md5": "1d2db3a9c19600ff584bf874bddf9dd6"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-sm.jpeg",
+        "type": "file",
+        "md5": "38adbfded9f4df5c3fe15bbb19c71ac8"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-xl.jpeg",
+        "type": "file",
+        "md5": "cce93ef2b45ba25756b440779c064d2f"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2815-2-xs.jpeg",
+        "type": "file",
+        "md5": "bd9b45fd8f950f4b6e802f586b804940"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-2xl.jpeg",
+        "type": "file",
+        "md5": "74f74c1790df4b53bfbfa678dbe1ce6b"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-lg.jpeg",
+        "type": "file",
+        "md5": "64fe285ee063d8c168733afb62999083"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-md.jpeg",
+        "type": "file",
+        "md5": "1484cdb6f279e3614b7616217fc6a007"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-sm.jpeg",
+        "type": "file",
+        "md5": "e0414662f7ac501da42d4202d1e494df"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-xl.jpeg",
+        "type": "file",
+        "md5": "3deba557dde0a8436fb939417bfc9040"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2816-xs.jpeg",
+        "type": "file",
+        "md5": "04cc95126207746cd30498dfa6d5c0ca"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-2xl.jpeg",
+        "type": "file",
+        "md5": "5efde130a439e6e3fb10a8014af833ca"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-lg.jpeg",
+        "type": "file",
+        "md5": "4740e71634fb12f8fc4788be19c697e7"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-md.jpeg",
+        "type": "file",
+        "md5": "510b90e2738573f84791304300dc7a7e"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-sm.jpeg",
+        "type": "file",
+        "md5": "759cde3b5d3cd14b336c641533cbed63"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-xl.jpeg",
+        "type": "file",
+        "md5": "db4a240016b22270c04f956b5888f8b8"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2817-xs.jpeg",
+        "type": "file",
+        "md5": "be80230da59d702bcdbcdaee3658f87d"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-2xl.jpeg",
+        "type": "file",
+        "md5": "fbc08e5276417b77994106ded4300605"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-lg.jpeg",
+        "type": "file",
+        "md5": "ee8dc2516dc21b9440a49e1452feff02"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-md.jpeg",
+        "type": "file",
+        "md5": "9ebc0abe5f1bae700cbdda47717408ff"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-sm.jpeg",
+        "type": "file",
+        "md5": "ca4498d6d790fce57a224c9c002d8d94"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-xl.jpeg",
+        "type": "file",
+        "md5": "17ca2cd7565a0fb71b5a9a8ae06fb9b4"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2818-xs.jpeg",
+        "type": "file",
+        "md5": "b718b0ebfeef35d30170dcdbbdd3372b"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-2xl.jpeg",
+        "type": "file",
+        "md5": "3081469b562ceef11ad4bfed0697bcd5"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-lg.jpeg",
+        "type": "file",
+        "md5": "7e39172b29c42b1ddb67d860b12b6db6"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-md.jpeg",
+        "type": "file",
+        "md5": "15ae75a8e1a42581699a7a039083a553"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-sm.jpeg",
+        "type": "file",
+        "md5": "90ffef4a66a1d8512093407dfb376e72"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-xl.jpeg",
+        "type": "file",
+        "md5": "6069673c226759058266ad0db1a200f2"
+    },
+    {
+        "path": "/media/posts/17/responsive/IMG_2819-xs.jpeg",
+        "type": "file",
+        "md5": "135d2fa95a59c2aef759e629cc8ef91f"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-2xl.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-lg.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-md.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-sm.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-xl.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
+        "path": "/media/posts/17/responsive/Screenshot-2026-08-12-at-8.23.44-AM-xs.png",
+        "type": "file",
+        "md5": "a75cd304c9d9346e96ff373bc06bc7d6"
+    },
+    {
         "path": "media/posts/2",
         "type": "directory",
         "md5": false
@@ -1037,7 +1392,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e74719735150de8324da81bc9a52cbdc"
+        "md5": "c9eefda6b04cfa4337dfce52007ba6ab"
     },
     {
         "path": "sitemap.xsl",
@@ -1055,9 +1410,59 @@
         "md5": false
     },
     {
+        "path": "tags/diy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/diy/index.html",
+        "type": "file",
+        "md5": "454e23a1205adaffae7c0ecc728f7d5f"
+    },
+    {
+        "path": "tags/goodwill",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/goodwill/index.html",
+        "type": "file",
+        "md5": "7d17f0b5d96ca2cdad9acebe8426eec5"
+    },
+    {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ae7be79fd93cb966ba896d332ddb87c7"
+        "md5": "a54a0f80701e08131fdf7a8fe3bb3dbe"
+    },
+    {
+        "path": "tags/poshmark",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/poshmark/index.html",
+        "type": "file",
+        "md5": "cf5166ec9ef35b4250f2c45b54b984ae"
+    },
+    {
+        "path": "tags/thrift",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/thrift/index.html",
+        "type": "file",
+        "md5": "92b393d3b3930424454150b4f1d663bb"
+    },
+    {
+        "path": "tags/tips",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tips/index.html",
+        "type": "file",
+        "md5": "88eb568412215766a91df0471aaa32ee"
     },
     {
         "path": "the-stinky-shirt.html",
@@ -1077,7 +1482,7 @@
     {
         "path": "what-i-wore-to-church-july-26-2026.html",
         "type": "file",
-        "md5": "0338026a7ae2eeef81c8d55cfb326908"
+        "md5": "157f05d4dc7507ec10a2bc37a20b2490"
     },
     {
         "path": "what-i-wore-to-work-and-the-bao-bao-story.html",
